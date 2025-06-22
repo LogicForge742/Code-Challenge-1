@@ -1,6 +1,6 @@
-//initialize the prompt -sync
+//initialize the prompt -sync.
 const prompt =require("prompt-sync")()
-//function that calcultes to the total number of ingredients
+//function that calcultes to the total number of ingredients.
 function calculateChaiIngredients(numberOfCups){
     const waterPerCup = 200
     const milkPerCup = 50
