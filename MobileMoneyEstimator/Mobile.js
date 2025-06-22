@@ -22,8 +22,8 @@
  const fee = estimateTransactionFee(amountToSend)
  const totalAmount = amountToSend + fee
  const output = `To send  KES ${amountToSend}:
- Calculated Transaction Fee : ${fee.toFixed(2)}
- Total amount to be debited: KES ${totalAmount.toFixed(2)}
+ Calculated Transaction Fee : ${fee}
+ Total amount to be debited: KES ${totalAmount}
   
   Send Money Securely!`
   console.log (output)
