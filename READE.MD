@@ -50,7 +50,7 @@ git clone :https://github.com/LogicForge742/Code-Challenge-1
 
 Navigate into the project directory and install dependencies:
 
-cd multi-tool-calculator-suite
+cd multi-tool-calculator-suite.
 
 npm install prompt-sync.
 
