@@ -19,5 +19,6 @@ A simple Node.js console application that calculates the total amount of ingredi
 
 ## Installation
 Clone this repository through:
-git clone :git@github.com:LogicForge742/Code-Challenge-1.git
+git clone :git@github.com:LogicForge742/Code-Challenge-1.git.
+
 Then open a folder called CHAICALCULATOR where you will find a file named Chai.js
