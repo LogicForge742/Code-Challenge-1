@@ -20,7 +20,7 @@
     console .log ("Please input a positive number")
  } else {
     const payFare = calculateBodaFare(distanceInKm)
-  // Use object properties with dot notation inside template literala
+  // Use object properties with dot notation inside template literals
     const output = `Uko kwote ? Io ni ${distanceInKm} km:
     Ukikalia Pikipiki : KES ${payFare.baseFare}
     Mpaka uko: ${distanceInKm* payFare.perKilometerCharge}
