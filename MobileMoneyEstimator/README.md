@@ -20,7 +20,7 @@ A simple Node.js console application that estimates the transaction fee based on
 
 ## Installation
 Clone this repository through:
- git clone :git@github.com:LogicForge742/Code-Challenge-1.git.
+ git clone :https://github.com/LogicForge742/Code-Challenge-1/tree/main/MobileMoneyEstimator
  Then proceed to access a folder called MOBILEMONEYESTIMATOR where you would find a file named Mobile.js
  Navigate into the project directory and install dependencies:
 
