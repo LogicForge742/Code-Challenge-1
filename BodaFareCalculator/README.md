@@ -19,6 +19,6 @@ A simple Node.js console application that calculates the total fare for a boda b
 
 ## Installation
 Clone this repository through:
-git clone :git@github.com:LogicForge742/Code-Challenge-1.git
+git clone :https://github.com/LogicForge742/Code-Challenge-1/tree/main/BodaFareCalculator
 Then on your terminal open a folder named BODAFARECALCULATOR then inside it you will find a file named Boda.js
 
